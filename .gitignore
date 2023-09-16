@@ -1,4 +1,4 @@
-## Original ignores
+## ignores
 autogpt/keys.py
 autogpt/*.json
 auto_gpt_workspace/*
